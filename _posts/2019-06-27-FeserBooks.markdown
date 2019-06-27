@@ -13,7 +13,7 @@ A short list of book recommendations by my favorite contemporary philosopher Dr.
 * [Scholastic Metaphysics: A Contemporary Introduction](https://www.amazon.com/Scholastic-Metaphysics-Contemporary-Introduction-Scholasticae/dp/3868385444)
 * [Aristotle’s Revenge: The Metaphysical Foundations of Physical and Biological Science](https://www.amazon.com/Aristotles-Revenge-Metaphysical-Foundations-Biological/dp/3868382003)
 
-Will update this list as I continue to reading and finding good books on Aristotelianism. 
+Will update this list as I continue reading and finding good books on Aristotelianism. 
 
 <!--You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.-->
 <!---->
