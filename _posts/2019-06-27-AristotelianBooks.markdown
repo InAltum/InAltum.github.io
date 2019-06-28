@@ -8,7 +8,7 @@ A short list of book recommendations by my favorite contemporary philosopher Dr.
 
 * [Aquinas: A Beginner's Guide](https://www.amazon.com/Aquinas-Beginners-Guide-Edward-Feser/dp/1851686908)
 * [The Last Superstition: A Refutation of the New Atheism](https://www.amazon.com/Last-Superstition-Refutation-New-Atheism/dp/1587314525)
-* [Philosophy of Mind: A Beginner's Guide](https://www.amazon.com/Philosophy-Beginners-Guide-Edward-2006-10-20/dp/B01FIYWO5G)
+<!--* [Philosophy of Mind: A Beginner's Guide](https://www.amazon.com/Philosophy-Beginners-Guide-Edward-2006-10-20/dp/B01FIYWO5G)-->
 * [Five Proofs of the Existence of God](https://www.amazon.com/Five-Proofs-Existence-Edward-Feser/dp/1621641333)
 * [Scholastic Metaphysics: A Contemporary Introduction](https://www.amazon.com/Scholastic-Metaphysics-Contemporary-Introduction-Scholasticae/dp/3868385444)
 * [Aristotle’s Revenge: The Metaphysical Foundations of Physical and Biological Science](https://www.amazon.com/Aristotles-Revenge-Metaphysical-Foundations-Biological/dp/3868382003)
