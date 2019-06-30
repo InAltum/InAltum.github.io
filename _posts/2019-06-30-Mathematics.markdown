@@ -2,7 +2,7 @@
 layout: post
 title:  "Are Mathematics Just a Product of the Human Mind? (Part 1)"
 date:   2019-06-30 16:30:00 -0700
-author: alejandrina
+author: Alejandrina G.R.
 <!--categories: jekyll update-->
 ---
 Can a reductionist evolutionary and materialistic account alone explain the development of human intelligence? Human intellect presents a monumental obstacle to a reductionist account. That is because a reductionist and materialistic account fails to explain the development of human intelligence because the capacity of it exceeds any relationship to survival or reproduction. This is not to deny that evolution happened or that evolution had a role in developing human intelligence, but rather arguing that a reductionist account has much more to explain. 
