@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Aristotelian book recommendations"
-date:   2019-06-27 
-<!--15:30:00 -0700-->
+date:   2019-06-27 12:30:00 -0700
 <!--categories: jekyll update-->
 ---
 A short list of book recommendations by my favorite contemporary philosopher Dr. Edward Feser. Most of what I know about philosophy has been because of reading Dr. Feser in my spare time. Additionally, he has an amazing blog [here](http://edwardfeser.blogspot.com) and his personal site is [here](http://www.edwardfeser.com).

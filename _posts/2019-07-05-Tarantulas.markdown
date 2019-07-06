@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nietzsche’s Tarantulas"
-date:   2019-07-05 
+date:   2019-07-05 12:30:00 -0700
 author: Alejandrina G.R.
 <!--categories: jekyll update-->
 ---
