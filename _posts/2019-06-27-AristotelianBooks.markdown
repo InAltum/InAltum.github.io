@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Aristotelian book recommendations"
+title:  "Aristotelian Book Recommendations"
 date:   2019-06-27 12:30:00 -0700
 <!--categories: jekyll update-->
 ---

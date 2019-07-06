@@ -5,10 +5,10 @@ date:   2019-07-05 12:30:00 -0700
 author: Alejandrina G.R.
 <!--categories: jekyll update-->
 ---
-#### tl;dr 
+### tl;dr 
 The current deconstruction of the universities by the SJW ideology was foreshadowed back when Friedrich Nietzsche declared the destruction of the fundamental metaphysics of western culture. Nietzsche pointed out that the consequence of removing the foundation of western culture would be the fragmentation of the idea of value itself... Because if value itself is eliminated then then there’s no reason for value hierarchies of virtue — and so the logical outcome would be the move to radical equality. On its way, this movement would wipeout several virtues such as the concept of personal responsibility. 
 
-#### Nietzsche: The Tarantulas
+### Nietzsche: The Tarantulas
 
 SJWs pretend to preach for tolerance but they are actually the most intolerant people out there.
 
@@ -42,5 +42,5 @@ If you aren’t part of the SJW groupthink, then you are out of luck because the
 > **Distrust all those who talk much of their justice! Verily, in their souls not only honey is lacking.
 And when they call themselves "the good and just," forget not, that for them to be Pharisees, nothing is lacking but—power!**
 
-#### Full text: 
+### Source: 
 * [Friedrich Nietzsche : Thus Spoke Zarathustra / The Tarantulas](http://4umi.com/nietzsche/zarathustra/29) (emphasis added)
