@@ -6,7 +6,7 @@ author: Alejandrina G.R.
 <!--categories: jekyll update-->
 ---
 ### tl;dr 
-The current deconstruction of the universities by the SJW ideology was foreshadowed back when Friedrich Nietzsche declared the destruction of the fundamental metaphysics of western culture. Nietzsche pointed out that the consequence of removing the foundation of western culture would be the fragmentation of the idea of value itself... Because if value itself is eliminated then then there’s no reason for value hierarchies of virtue — and so the logical outcome would be the move to radical equality. On its way, this movement would wipeout several virtues such as the concept of personal responsibility. 
+The current deconstruction of the universities by the SJW ideology was foreshadowed back when Friedrich Nietzsche declared the destruction of the fundamental metaphysics of western culture. Nietzsche pointed out that the consequence of removing the foundation of western culture would be the fragmentation of the idea of value itself... Because if value itself is eliminated then there’s no reason for value hierarchies of virtue — and so the logical outcome would be the move to radical equality. On its way, this movement would wipeout several virtues such as the concept of personal responsibility. 
 
 ### Nietzsche: The Tarantulas
 
