@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Are Mathematics Just a Product of the Human Mind? (Part 1)"
-date:   2019-07-01 12:30:00 -0700
+date:   2019-07-01 
+<!--12:30:00 -0700-->
 author: Alejandrina G.R.
 <!--categories: jekyll update-->
 ---
