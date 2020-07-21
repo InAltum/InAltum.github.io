@@ -1,0 +1,63 @@
+---
+layout: post
+title:  "Subversion TL;DR: Cheat Sheet for Command Line"
+date:   2020-07-20 12:30:00 -0700
+<!--categories: jekyll update-->
+---
+
+# Subversion Command Line Cheat Sheet
+**Note:** In Subversion, the commit command works as git's commit + push commands. So a subversion commit will also push to remote automatically.
+
+## To get svn info about directory:
+<code>$ svn info</code>
+
+## To update local branch or trunk:
+<code>$ svn up</code>
+
+## To log last, for example, 5 number of changes:
+<code>$ svn log -l 5</code>
+
+## To update local branch (sync with trunk):
+* Make sure branch is up to date with remote branch:
+<code>localbranch$ svn up</code>
+* Then:
+<code>localbranch$ svn merge /source/path/to/trunk</code>
+<code>localbranch$ svn commit -m "post trunk merge to branch commit"</code>
+
+## Merge local branch to trunk
+* Make sure local trunk is up to date with remote trunk:
+<code>localtrunk$ svn up</code>
+* Then
+<code> localtrunk$ svn merge /source/path/to/branch </code>
+<code> localtrunk$ svn commit -m "Some commit comments here..."</code>
+
+## Revert local changes in current directory:
+<code>$ svn revert --recursive .</code>
+
+## Revert local changes for an individual file:
+* For example, reverting the hidden .idea file
+    <code>$ svn revert .idea</code>
+
+## To revert trunk (or a branch) to a previous revision:
+* For example, to go from revision 10119 (current) back to revision 10118:
+    <code> localtrunk$ svn update  </code>
+    <code> localtrunk$ svn merge -r 10119:10118 . </code>
+    <code> localtrunk$ svn commit -m "Rolled back to r10118" </code>
+
+## For merging missing ranges on trunk/branch error:
+* For example, error: "Missing ranges: /trunk/occl:650-693)"
+    <code> localbranch$ svn merge -r 650:693 /source/path/to/trunk </code>
+    <code> localbranch$ svn commit -m "merged revisions 650:693 from trunk </code>
+    
+## Check for files with conflicts:
+<code>$ svn st | grep '^C'</code>
+
+## Mark a file as resolved after fixing file conflict:
+ <code>$ svn resolve --accept working path/to/file.js</code>
+
+
+
+
+
+
+
