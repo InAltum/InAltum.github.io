@@ -44,10 +44,12 @@ date:   2020-07-20 12:30:00 -0700
 
 ## Revert local changes for an individual file:
 * For example, reverting the hidden .idea file
+
     <code>$ svn revert .idea</code>
 
 ## To revert trunk (or a branch) to a previous revision:
 * For example, to go from revision 10119 (current) back to revision 10118:
+
     <code> localtrunk$ svn update  </code>
     
     <code> localtrunk$ svn merge -r 10119:10118 . </code>
@@ -56,6 +58,7 @@ date:   2020-07-20 12:30:00 -0700
 
 ## For merging missing ranges on trunk/branch error:
 * For example, error: "Missing ranges: /trunk/occl:650-693)"
+
     <code> localbranch$ svn merge -r 650:693 /source/path/to/trunk</code>
     
     <code> localbranch$ svn commit -m "merged revisions 650:693 from trunk </code>
