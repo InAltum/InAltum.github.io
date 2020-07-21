@@ -19,16 +19,24 @@ date:   2020-07-20 12:30:00 -0700
 
 ## To update local branch (sync with trunk):
 * Make sure branch is up to date with remote branch:
+
 <code>localbranch$ svn up</code>
+
 * Then:
+
 <code>localbranch$ svn merge /source/path/to/trunk</code>
+
 <code>localbranch$ svn commit -m "post trunk merge to branch commit"</code>
 
 ## Merge local branch to trunk
 * Make sure local trunk is up to date with remote trunk:
+
 <code>localtrunk$ svn up</code>
+
 * Then
+
 <code> localtrunk$ svn merge /source/path/to/branch </code>
+
 <code> localtrunk$ svn commit -m "Some commit comments here..."</code>
 
 ## Revert local changes in current directory:
@@ -41,12 +49,15 @@ date:   2020-07-20 12:30:00 -0700
 ## To revert trunk (or a branch) to a previous revision:
 * For example, to go from revision 10119 (current) back to revision 10118:
     <code> localtrunk$ svn update  </code>
+    
     <code> localtrunk$ svn merge -r 10119:10118 . </code>
+    
     <code> localtrunk$ svn commit -m "Rolled back to r10118" </code>
 
 ## For merging missing ranges on trunk/branch error:
 * For example, error: "Missing ranges: /trunk/occl:650-693)"
-    <code> localbranch$ svn merge -r 650:693 /source/path/to/trunk </code>
+    <code> localbranch$ svn merge -r 650:693 /source/path/to/trunk</code>
+    
     <code> localbranch$ svn commit -m "merged revisions 650:693 from trunk </code>
     
 ## Check for files with conflicts:
